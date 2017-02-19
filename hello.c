@@ -2,5 +2,5 @@
 
 int main()
 {
-	prinf("hello first version");
+	prinf("hello second version");
 }
